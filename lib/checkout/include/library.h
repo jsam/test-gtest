@@ -1,0 +1,6 @@
+#ifndef GOOGLE_TEST_LIBRARY_H
+#define GOOGLE_TEST_LIBRARY_H
+
+void hello();
+
+#endif //GOOGLE_TEST_LIBRARY_H
